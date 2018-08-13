@@ -13,3 +13,6 @@ body {
     padding-top: 56px;
   }
 }
+.navbar-dark .nav-item > .nav-link.active  {
+    color:white;
+}
